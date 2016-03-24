@@ -3,6 +3,11 @@ $(document).ready(function () {
   var crimson = "#7D110C";
   var cream = "#E1D8B7"
 
+/*
+  Find the areas marked FIXME and change them so the script works!
+*/
+
+
   // http://api.jquery.com/click/
   $("p").click(function () {
     /*
